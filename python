@@ -1,0 +1,19 @@
+Python is a popular and easy-to-learn programming language 
+
+# Very easy to read and write
+# Fast to learn 
+# Used everywhere – from small scripts to huge companies
+# Lots of free tools and libraries for everything
+
+** Print A Message **
+     print("Hello, world!")
+   --> This prints a message to the screen.
+
+** Add Two Numbers **
+ a = 5
+ b = 3
+ sum = a + b
+print("The sum is:", sum)
+---> Adds two numbers and prints the result.
+
+
